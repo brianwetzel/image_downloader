@@ -28,7 +28,9 @@ with open(f"images/{image_name}", "rb") as file: #Use an f-string to define the 
              mime="image/jpg"  # The type of the data. If None, defaults to "text/plain" or "application/octet-stream" depending on the data type.
            )
 
-
+if btn:
+  st.balloons()
+  
 ### MAIN - VIEW IMAGE ###
 
 # Use a f-string to define the path to the image, open it with the open function, and set it equal to the variable 'image'
