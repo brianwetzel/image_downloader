@@ -3,7 +3,10 @@
 This Streamlit app allows you so select an image from the library and download it to your computer. 
 <br>
 <br>
-### [Check out the app here!](https://share.streamlit.io/brianwetzel/image_downloader/main/image_downloader.py)
+Check out the app here!
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/brianwetzel/image_downloader/main/image_downloader.py)
+
 
 <br>
 
